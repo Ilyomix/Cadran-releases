@@ -1,0 +1,52 @@
+name: Feature Request
+description: Suggest an idea or improvement for Cadran
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to make Cadran better? We'd love to hear it.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like to see?
+      description: Describe the feature or improvement you have in mind.
+      placeholder: "I'd love it if Cadran could..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Why is this useful?
+      description: How would this feature improve your experience?
+      placeholder: "This would help me because..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which area does this relate to?
+      options:
+        - Clock faces
+        - Backgrounds & themes
+        - Weather
+        - Complications (date, battery, moon, etc.)
+        - Screensaver
+        - Multi-monitor
+        - Settings & preferences
+        - Performance
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Mockups or references (optional)
+      description: If you have visual references, drop them here.
+    validations:
+      required: false

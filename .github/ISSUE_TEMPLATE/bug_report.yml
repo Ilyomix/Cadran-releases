@@ -1,0 +1,75 @@
+name: Bug Report
+description: Something isn't working as expected
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. Please fill in as much detail as you can — it helps us fix things faster.
+
+  - type: input
+    id: cadran-version
+    attributes:
+      label: Cadran version
+      description: "Find it in Cadran > About Cadran"
+      placeholder: "e.g. 1.0.34"
+    validations:
+      required: true
+
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      description: "Apple menu > About This Mac"
+      placeholder: "e.g. macOS 15.3 Sequoia"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: chip
+    attributes:
+      label: Mac chip
+      options:
+        - Apple Silicon (M1/M2/M3/M4)
+        - Intel
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the bug clearly. What did you expect vs. what actually happened?
+      placeholder: "When I do X, I expect Y, but Z happens instead."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we trigger this bug?
+      placeholder: |
+        1. Open Cadran
+        2. Select the "Horizon" face
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, drag and drop screenshots here.
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console logs (optional)
+      description: "Open Console.app, filter by \"Cadran\", and paste relevant logs here."
+      render: shell
+    validations:
+      required: false
