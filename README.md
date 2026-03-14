@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="icon.png" width="128" alt="Cadran app icon">
+
 # Cadran
 
 **A clock on your wallpaper.**
