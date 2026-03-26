@@ -8,7 +8,7 @@
 
 22 hand-crafted clock faces rendered directly on your macOS desktop — behind your icons, always visible, never intrusive.
 
-[Website](https://cadranapp.com) &nbsp;&middot;&nbsp; [Download](https://github.com/Ilyomix/Cadran-releases/releases/latest) &nbsp;&middot;&nbsp; [Report a Bug](https://github.com/Ilyomix/Cadran-releases/issues/new?template=bug_report.yml) &nbsp;&middot;&nbsp; [Request a Feature](https://github.com/Ilyomix/Cadran-releases/issues/new?template=feature_request.yml)
+[Website](https://cadranapp.com) &nbsp;&middot;&nbsp; [Download](https://cadranapp.com/api/download/latest) &nbsp;&middot;&nbsp; [Report a Bug](https://github.com/Ilyomix/Cadran-releases/issues/new?template=bug_report.yml) &nbsp;&middot;&nbsp; [Request a Feature](https://github.com/Ilyomix/Cadran-releases/issues/new?template=feature_request.yml)
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14.0%2B-black?style=flat-square&logo=apple&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/Ilyomix/Cadran-releases?style=flat-square&color=FF8400&label=latest)
@@ -51,7 +51,7 @@ No accounts. No ads. No telemetry. Everything stays on your Mac.
 
 Grab the latest release:
 
-**[Download Cadran.dmg](https://github.com/Ilyomix/Cadran-releases/releases/latest)**
+**[Download Cadran.dmg](https://cadranapp.com/api/download/latest)**
 
 > Requires **macOS Sonoma 14.0** or later. Works on Apple Silicon and Intel.
 
