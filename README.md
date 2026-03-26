@@ -12,7 +12,7 @@
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14.0%2B-black?style=flat-square&logo=apple&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/Ilyomix/Cadran-releases?style=flat-square&color=FF8400&label=latest)
-![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fcadranapp.com%2Fapi%2Fbadges%2Fdownloads&style=flat-square)
+![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fcadranapp.com%2Fapi%2Fbadges%2Fdownloads&style=flat-square&color=128400)
 
 </div>
 
