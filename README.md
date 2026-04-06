@@ -6,7 +6,7 @@
 
 **A clock on your wallpaper.**
 
-22 hand-crafted clock faces rendered directly on your macOS desktop — behind your icons, always visible, never intrusive.
+22 hand-crafted clock faces rendered directly on your macOS desktop - behind your icons, always visible, never intrusive.
 
 [Website](https://cadranapp.com) &nbsp;&middot;&nbsp; [Download](https://cadranapp.com/api/download/latest) &nbsp;&middot;&nbsp; [Report a Bug](https://github.com/Ilyomix/Cadran-releases/issues/new?template=bug_report.yml) &nbsp;&middot;&nbsp; [Request a Feature](https://github.com/Ilyomix/Cadran-releases/issues/new?template=feature_request.yml)
 
@@ -20,17 +20,17 @@
 
 ## What is Cadran?
 
-Cadran transforms your Mac desktop into a beautiful, always-visible clock. Pick from **22 uniquely designed faces** — analog, numeric, abstract, matrix, data-driven, and color-mapped — each crafted to complement your workspace, not compete with it.
+Cadran transforms your Mac desktop into a beautiful, always-visible clock. Pick from **22 uniquely designed faces** - analog, numeric, abstract, matrix, data-driven, and color-mapped - each crafted to complement your workspace, not compete with it.
 
 ### Highlights
 
-- **Wallpaper-layer rendering** — lives behind your icons, not on top
+- **Wallpaper-layer rendering** - lives behind your icons, not on top
 - **Dynamic sky backgrounds** that shift with real sunrise and sunset
 - **Live weather** overlays (temperature, wind, conditions)
-- **41 curated backgrounds** — solids, gradients, and dynamic sky
-- **Per-monitor faces** — assign a different face to each display
-- **Native screensaver mode** — your clock face, fullscreen
-- **Energy-optimized** — pauses automatically when hidden
+- **41 curated backgrounds** - solids, gradients, and dynamic sky
+- **Per-monitor faces** - assign a different face to each display
+- **Native screensaver mode** - your clock face, fullscreen
+- **Energy-optimized** - pauses automatically when hidden
 
 ### Privacy-first
 
@@ -95,7 +95,7 @@ gh issue create --repo Ilyomix/Cadran-releases \
 
 - Search [existing issues](https://github.com/Ilyomix/Cadran-releases/issues) to avoid duplicates
 - Include your **macOS version** and **Cadran version** for bug reports
-- One issue per report — it helps us track and resolve things faster
+- One issue per report - it helps us track and resolve things faster
 
 ---
 
