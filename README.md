@@ -43,7 +43,7 @@ No accounts. No ads. No telemetry. Everything stays on your Mac.
 | Clock faces | 6 | All 22 + future additions |
 | Backgrounds | Presets | Full palette |
 | Screensaver | Yes | Yes |
-| Per-monitor | — | Yes |
+| Per-monitor | - | Yes |
 
 ---
 
