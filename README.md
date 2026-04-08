@@ -55,6 +55,12 @@ Grab the latest release:
 
 **[Download Cadran.dmg](https://cadranapp.com/api/download/latest)**
 
+Or install with [Homebrew](https://brew.sh):
+
+```bash
+brew install --cask cadran
+```
+
 > Requires **macOS Sonoma 14.0** or later. Works on Apple Silicon and Intel.
 
 ---
