@@ -12,6 +12,7 @@
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14.0%2B-black?style=flat-square&logo=apple&logoColor=white)
 ![Latest Release](https://img.shields.io/github/v/release/Ilyomix/Cadran-releases?style=flat-square&color=FF8400&label=latest)
+[![Homebrew](https://img.shields.io/homebrew/cask/v/cadran?style=flat-square&color=FBB040&label=homebrew&logo=homebrew&logoColor=white)](https://formulae.brew.sh/cask/cadran)
 ![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fcadranapp.com%2Fapi%2Fbadges%2Fdownloads&style=flat-square&color=128400)
 [![Mentioned in Awesome Mac](https://awesome.re/mentioned-badge.svg)](https://github.com/jaywcjlove/awesome-mac/pull/1914#event-24241286709)
 
